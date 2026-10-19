@@ -1,6 +1,6 @@
 hr:
-  home: /
-  news_url: /vijesti/
+  home: /hr/
+  news_url: /hr/vijesti/
   title: "Vrijednosno usklađeno i interpretabilno optimiranje i rasuđivanje"
   nav_project: Projekt
   nav_team: Tim
@@ -22,15 +22,15 @@ hr:
   no_news: Još nema vijesti.
   back: Natrag na vijesti
   other_lang: English
-  other_home: /en/
+  other_home: /
   institution_label: Ustanova
   institution: "Sveučilište u Zagrebu Fakultet elektrotehnike i računarstva"
   eu_line: "Financira Europska unija – NextGenerationEU"
   disclaimer: "Projekt financira Europska unija – NextGenerationEU. Izneseni stavovi i mišljenja samo su autorova i ne odražavaju nužno službena stajališta Europske unije ili Europske komisije. Ni Europska unija ni Europska komisija ne mogu se smatrati odgovornima za njih."
   months: [siječnja, veljače, ožujka, travnja, svibnja, lipnja, srpnja, kolovoza, rujna, listopada, studenoga, prosinca]
 en:
-  home: /en/
-  news_url: /en/news/
+  home: /
+  news_url: /news/
   title: "Value-aligned and interpretable optimization and reasoning"
   nav_project: Project
   nav_team: Team
@@ -52,7 +52,7 @@ en:
   no_news: No news yet.
   back: Back to news
   other_lang: Hrvatski
-  other_home: /
+  other_home: /hr/
   institution_label: Institution
   institution: "University of Zagreb Faculty of Electrical Engineering and Computing"
   eu_line: "Funded by the European Union – NextGenerationEU"

@@ -9,10 +9,10 @@ exclude: [README.md, Gemfile, Gemfile.lock]
 
 defaults:
   - scope: { path: "" }
-    values: { layout: default, lang: hr }
-  - scope: { path: "en" }
-    values: { lang: en }
+    values: { layout: default, lang: en }
+  - scope: { path: "hr" }
+    values: { lang: hr }
   - scope: { path: "hr", type: posts }
-    values: { layout: post, lang: hr, permalink: "/vijesti/:year/:month/:title/" }
+    values: { layout: post, lang: hr, permalink: "/hr/vijesti/:year/:month/:title/" }
   - scope: { path: "en", type: posts }
-    values: { layout: post, lang: en, permalink: "/en/news/:year/:month/:title/" }
+    values: { layout: post, lang: en, permalink: "/news/:year/:month/:title/" }

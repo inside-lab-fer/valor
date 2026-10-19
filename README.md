@@ -38,7 +38,7 @@ Pravila (Opći uvjeti, čl. 7.1 i `IP_Visibility.docx`):
 
 - tim: `_data/team.yml`
 - tekstovi sučelja i podaci o projektu: `_data/i18n.yml`
-- naslovnice: `index.md` (HR) i `en/index.md` (EN), uključujući popis rezultata
+- naslovnice: `index.md` (EN, zadana) i `hr/index.md` (HR), uključujući popis rezultata
 
 ## Pokretanje lokalno
 

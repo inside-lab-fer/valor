@@ -1,7 +1,7 @@
 ---
-alt_url: /en/
+alt_url: /hr/
 ---
-{%- assign t = site.data.i18n.hr -%}
+{%- assign t = site.data.i18n.en -%}
 <section class="hero">
   <div class="wrap">
     <p class="eyebrow">{{ t.eyebrow }} · FER</p>
@@ -15,13 +15,13 @@ alt_url: /en/
 
 ## {{ t.about }}
 
-Veliki jezični modeli sve češće sudjeluju u donošenju odluka, a vrijednosti i preferencije koje pritom slijede teško je uočiti i provjeriti. Moćni, ali neusklađeni sustavi umjetne inteligencije predstavljaju ozbiljan praktični rizik, a postojeće metode za razumijevanje i usklađivanje vrijednosti takvih sustava još su ograničene.
+Large language models increasingly take part in decision making, while the values and preferences they follow are hard to see and verify. Powerful but misaligned AI systems pose a serious practical risk, and existing methods for understanding and aligning the values of such systems are still limited.
 
-Projekt **Vrijednosno usklađeno i interpretabilno optimiranje i rasuđivanje (VALOR)** razvija metode za interpretabilnost i usklađivanje vrijednosti velikih jezičnih modela (LLM-ova) u procesima optimizacije i rasuđivanja. Navedeni cilj možemo podijeliti na:
+The project **Value-aligned and interpretable optimization and reasoning (VALOR)** develops methods for interpretability and value alignment of large language models (LLMs) in optimization and reasoning processes. This goal breaks down into:
 
-1. razvoj metoda koje omogućuju bolje razumijevanje načina na koji modeli donose odluke,
-2. razvoj tehnika za praćenje i usmjeravanje ponašanja modela prema ciljnim vrijednostima,
-3. izradu otvorenih testnih skupova i alata za procjenu usklađenosti vrijednosti.
+1. methods for better understanding how models make decisions,
+2. techniques for monitoring and steering model behaviour towards target values,
+3. open benchmark datasets and tools for evaluating value alignment.
 
 </section>
 
@@ -32,11 +32,11 @@ Projekt **Vrijednosno usklađeno i interpretabilno optimiranje i rasuđivanje (V
 
 <section id="vijesti">
   <div class="section-head"><h2>{{ t.news }}</h2><a href="{{ t.news_url | relative_url }}">{{ t.all_news }} →</a></div>
-  {% include news-list.html lang="hr" limit=6 %}
+  {% include news-list.html lang="en" limit=6 %}
 </section>
 
 <section id="radovi">
   <h2>{{ t.pubs }}</h2>
-  {% include pubs.html lang="hr" %}
+  {% include pubs.html lang="en" %}
 </section>
 </main>
