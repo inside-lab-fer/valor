@@ -1,0 +1,60 @@
+hr:
+  home: /
+  news_url: /vijesti/
+  title: "Vrijednosno usklađeno i interpretabilno optimiranje i rasuđivanje"
+  nav_project: Projekt
+  nav_team: Tim
+  nav_pubs: Radovi
+  team: Istraživački tim
+  pubs: Radovi
+  pubs_journal: Radovi u časopisima
+  pubs_conf: Konferencijski radovi
+  pubs_pre: Preprinti
+  pubs_talks: Izlaganja
+  about: O projektu
+  eyebrow: Institucionalni istraživački projekt
+  read_more: Pročitaj više
+  unizg: Sveučilište u Zagrebu
+  fer: Fakultet elektrotehnike i računarstva
+  nav_news: Vijesti
+  news: Vijesti
+  all_news: Sve vijesti
+  no_news: Još nema vijesti.
+  back: Natrag na vijesti
+  other_lang: English
+  other_home: /en/
+  institution_label: Ustanova
+  institution: "Sveučilište u Zagrebu Fakultet elektrotehnike i računarstva"
+  eu_line: "Financira Europska unija – NextGenerationEU"
+  disclaimer: "Projekt financira Europska unija – NextGenerationEU. Izneseni stavovi i mišljenja samo su autorova i ne odražavaju nužno službena stajališta Europske unije ili Europske komisije. Ni Europska unija ni Europska komisija ne mogu se smatrati odgovornima za njih."
+  months: [siječnja, veljače, ožujka, travnja, svibnja, lipnja, srpnja, kolovoza, rujna, listopada, studenoga, prosinca]
+en:
+  home: /en/
+  news_url: /en/news/
+  title: "Value-aligned and interpretable optimization and reasoning"
+  nav_project: Project
+  nav_team: Team
+  nav_pubs: Publications
+  team: Research team
+  pubs: Publications
+  pubs_journal: Journal papers
+  pubs_conf: Conference papers
+  pubs_pre: Preprints
+  pubs_talks: Talks
+  about: About the project
+  eyebrow: Institutional research project
+  read_more: Read more
+  unizg: University of Zagreb
+  fer: Faculty of Electrical Engineering and Computing
+  nav_news: News
+  news: News
+  all_news: All news
+  no_news: No news yet.
+  back: Back to news
+  other_lang: Hrvatski
+  other_home: /
+  institution_label: Institution
+  institution: "University of Zagreb Faculty of Electrical Engineering and Computing"
+  eu_line: "Funded by the European Union – NextGenerationEU"
+  disclaimer: "The project is funded by the European Union – Next Generation EU. However, the views and opinions expressed are solely those of the author(s) and do not necessarily reflect those of the European Union or the European Commission. Neither the European Union nor the European Commission can be held responsible for them."
+  months: [January, February, March, April, May, June, July, August, September, October, November, December]

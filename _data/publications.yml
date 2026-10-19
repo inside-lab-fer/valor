@@ -1,0 +1,41 @@
+# Samo radovi i izlaganja s naznakom potpore projekta VALOR.
+# type: journal | conf | preprint | talk
+- type: journal
+  authors: M. Bukač, I. Mikuš, B. Muha, D. Vlah
+  title: Reduced order modeling of partial differential equations on parameter-dependent domains using deep neural networks
+  venue: Computers & Mathematics with Applications 216 (2026) 282–300
+  links:
+    - { label: DOI, url: "https://doi.org/10.1016/j.camwa.2026.05.008" }
+    - { label: arXiv, url: "https://arxiv.org/abs/2407.17171" }
+- type: conf
+  authors: B. Bućan, N. Sočec, S. Isufi, M. Granić, L. Hobor, A. Krajna, M. Kovač, M. Brčić
+  title: Auditing Alignment Controllability in LLMs via Political Axes
+  venue: AAAI/ACM Conference on AI, Ethics, and Society (AIES 2026), Malmö
+  links:
+    - { label: arXiv, url: "https://arxiv.org/abs/2607.23519" }
+    - { label: GitHub, url: "https://github.com/mbrcic/llm-political-steerability" }
+    - { label: Zenodo, url: "https://doi.org/10.5281/zenodo.21489805" }
+- type: preprint
+  authors: D. Kramer-Bang, H. Panzo, S. Šebek
+  title: Improved bounds on the inradius and inverse inradius process of the convex hull of planar Brownian motion
+  venue: arXiv:2607.26944, 2026
+  links: [ { label: arXiv, url: "https://arxiv.org/abs/2607.26944" } ]
+- type: preprint
+  authors: N. Sandrić, S. Šebek, L. Šimek
+  title: On the convex hull of a planar Brownian bridge with a random Gaussian endpoint
+  venue: arXiv:2606.24485, 2026
+  links: [ { label: arXiv, url: "https://arxiv.org/abs/2606.24485" } ]
+- type: preprint
+  authors: R. Mrazović, H. Panzo, S. Šebek
+  title: Expected perimeter and area of the convex hull of planar Brownian motion stopped upon exiting the unit disk
+  venue: arXiv:2604.18427, 2026
+  links: [ { label: arXiv, url: "https://arxiv.org/abs/2604.18427" } ]
+- type: preprint
+  authors: I. Mikuš, B. Muha, D. Vlah
+  title: "AE-ViT: Stable Long-Horizon Parametric Partial Differential Equations Modeling"
+  venue: arXiv:2604.06475, 2026
+  links: [ { label: arXiv, url: "https://arxiv.org/abs/2604.06475" } ]
+- type: talk
+  authors: D. Vlah, I. Mikuš, B. Muha
+  title: Stable Long-Horizon Prediction of Parametric PDE Solution with Latent-Tensor Vision Transformers
+  venue: Equadiff 2026, Prag / Prague

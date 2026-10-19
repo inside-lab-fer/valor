@@ -1,0 +1,36 @@
+# Tim prema prijavi (Obrazac 1) i obavijestima o izmjenama.
+# group: team | collab
+- name: izv. prof. dr. sc. Mario Brčić
+  unit: ZPR
+  group: team
+  role: { hr: voditelj projekta, en: principal investigator }
+- name: izv. prof. dr. sc. Domagoj Vlah
+  unit: ZPM
+  group: team
+- name: izv. prof. dr. sc. Mate Puljiz
+  unit: ZPM
+  group: team
+- name: doc. dr. sc. Stjepan Šebek
+  unit: ZPM
+  group: team
+- name: izv. prof. dr. sc. Vladimir Klemo
+  unit: ZEMRIS
+  group: team
+- name: doc. dr. sc. Marko Sossich
+  unit: ZPF
+  group: team
+- name: dr. sc. Agneza Krajna
+  unit: ZPR
+  group: collab
+- name: Mihael Kovač, mag. ing. comp.
+  unit: ZPR
+  group: collab
+- name: dr. sc. Kristijan Poje
+  unit: ZPR
+  group: collab
+- name: Iva Mikuš (Manojlović), mag. math.
+  unit: ZPM
+  group: collab
+- name: Luka Hobor, mag. ing. comp.
+  unit: ZPR
+  group: collab

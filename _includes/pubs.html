@@ -1,0 +1,19 @@
+{%- assign t = site.data.i18n[include.lang] -%}
+{%- assign groups = "journal,conf,preprint,talk" | split: "," -%}
+{%- for g in groups -%}
+  {%- assign items = site.data.publications | where: "type", g -%}
+  {%- if items.size > 0 -%}
+  {%- case g -%}{%- when "journal" -%}{%- assign label = t.pubs_journal -%}{%- when "conf" -%}{%- assign label = t.pubs_conf -%}{%- when "preprint" -%}{%- assign label = t.pubs_pre -%}{%- else -%}{%- assign label = t.pubs_talks -%}{%- endcase %}
+  <h3>{{ label }}</h3>
+  <ol class="pubs">
+  {%- for p in items %}
+    <li>
+      <span class="pub-authors">{{ p.authors }}</span>
+      <span class="pub-title">{{ p.title }}</span>
+      <span class="pub-venue">{{ p.venue }}</span>
+      {%- if p.links %}<span class="pub-links">{% for l in p.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</span>{% endif %}
+    </li>
+  {%- endfor %}
+  </ol>
+  {%- endif -%}
+{%- endfor -%}
