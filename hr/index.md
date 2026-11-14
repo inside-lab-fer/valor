@@ -23,6 +23,8 @@ Projekt **Vrijednosno usklađeno i interpretabilno optimiranje i rasuđivanje (V
 2. razvoj tehnika za praćenje i usmjeravanje ponašanja modela prema ciljnim vrijednostima,
 3. izradu otvorenih testnih skupova i alata za procjenu usklađenosti vrijednosti.
 
+VALOR je četverogodišnji institucijski istraživački projekt Fakulteta elektrotehnike i računarstva Sveučilišta u Zagrebu (FER), od listopada 2025. do rujna 2029. Voditelj projekta: Mario Brčić.
+
 </section>
 
 <section id="tim">

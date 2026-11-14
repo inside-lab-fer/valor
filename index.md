@@ -23,6 +23,8 @@ The project **Value-aligned and interpretable optimization and reasoning (VALOR)
 2. techniques for monitoring and steering model behaviour towards target values,
 3. open benchmark datasets and tools for evaluating value alignment.
 
+VALOR is a four-year institutional research project of the University of Zagreb Faculty of Electrical Engineering and Computing (FER), running from October 2025 to September 2029. Principal investigator: Mario Brčić.
+
 </section>
 
 <section id="tim">
